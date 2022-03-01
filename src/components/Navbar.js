@@ -42,7 +42,7 @@ const Navbar = () => {
             to="/about"
             className="nav-link"
             activeClassName="active-link"
-            onClick={() => setShow(false)}
+            onClick={() => setShow(false)}tyhrt
           >
             about
           </Link>
